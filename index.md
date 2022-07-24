@@ -1,35 +1,19 @@
-## Portfolio
+## My Portfolio
 
 ---
 
-### Category Name 1 
+### [Course Project: EDSA DataScience-Course (Visualization sprint)](https://github.com/ririzqah/EDSA-DataScience-Course/tree/main/Visualisation)
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+This shows the visualization projects I completed while doing the Data Science course at Explore.
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Practicals:
+- Insurance: (Overview)
+- Human Resources: (Overview)
+- Marketing: (Overview)
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Predict project:
+- Eskom data: (Overview)
 
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+![eskom](/Images/Eskom.png)
 
 ---
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
