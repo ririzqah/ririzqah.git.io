@@ -15,6 +15,4 @@ Practicals:
 Predict project:
 - Eskom data: (Overview)
 
-![eskom](/Images/Eskom.png)
-
 ---
