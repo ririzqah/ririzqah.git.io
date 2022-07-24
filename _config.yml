@@ -1,11 +1,9 @@
 title: Rizqah Meniers # your name (or website title) here
-logo: <img src="https://github.com/ririzqah/ririzqah.git.io/blob/main/images/Rizqah.png" title="pic" alt="pic" width="100" height="120"/>&nbsp; # your photo (or logo) here
+logo: "/images/Rizqah.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I have always been passionate about the concept of data. 
   After exploring my strengths, I had the opportunity to complete a data science program, learning data science fundamentals and machine learning techniques.
   This only enhanced my growing love for working with data. I aim to continue to learn more about the impact data has in our everyday lives.
-  <br><br>
-  Second description 
   <br><br>
   <a href="https://www.linkedin.com/in/rizqahmeniers19/">View My LinkedIn Profile</a> 
   
