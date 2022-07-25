@@ -13,6 +13,6 @@ Practicals:
 - Human Resources: (Overview)
 - Marketing: (Overview)
 Predict project:
-- Eskom data: (Overview)
+- Eskom data: (Overview).
 
 ---
